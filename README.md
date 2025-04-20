@@ -8,9 +8,10 @@ TaskHub is a clean and easy-to-use Flutter application built to help users stay 
 
 - Sign in securely using email and password
 - Add new tasks and view them in a clean list
+- Edit your tasks
 - Mark tasks as completed or delete them anytime
 - See your tasks grouped as "To Do" or "Completed"
-- Toggle dark mode to match your theme preference
+- Toggle dark mode to match your theme preference, its at top right corner
 - View a live count of your remaining tasks in the app bar
 - Enjoy a responsive and polished UI built with Flutter
 
@@ -119,6 +120,10 @@ await Supabase.initialize(
 
 ### Add Task  
 <img width="300" alt="Add Task" src="https://github.com/user-attachments/assets/304e72af-58c1-45f2-a3cb-bcf9b021e61a" />
+
+### Edit Task  
+<img width="300" alt="Edit Task" src="https://github.com/user-attachments/assets/e949f970-3e49-4c95-b732-66f3f1e78781" />
+
 
 
 ### Supabase Dashboard
