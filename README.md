@@ -95,10 +95,39 @@ await Supabase.initialize(
 - Use **hot restart** when the app behaves oddly or when changing startup logic.
 
 ---
-
 ## Screenshots
 
-Add screenshots here showing the login screen, task list, and dark mode appearance.
+### App Logo  
+<img width="300" alt="App Logo" src="https://github.com/user-attachments/assets/c28145ad-d2f6-42b8-9c60-fd9b34b78fa3" />
+
+### Authentication Screens  
+**Login Page**  
+<img width="300" alt="Login Page" src="https://github.com/user-attachments/assets/dd8743e7-fd5e-422e-b8b6-0610aa784bc5" />
+
+**Sign Up Page**  
+<img width="300" alt="Sign Up Page" src="https://github.com/user-attachments/assets/a59a3ac8-ee7f-462b-8416-5e648ff928d6" />
+
+**Email Confirmation Page**  
+<img width="600" alt="Email Confirm Page" src="https://github.com/user-attachments/assets/714f0cfa-0fa2-4916-88a3-01df1f144ca3" />
+
+### Dashboard Views  
+**Dark Mode**  
+<img width="300" alt="Dashboard Dark" src="https://github.com/user-attachments/assets/a66d421f-54b2-44c2-b5cf-7a1829f9595d" />
+
+**Light Mode**  
+<img width="300" alt="Dashboard Light" src="https://github.com/user-attachments/assets/03b18c11-8134-4166-93ae-8b2957e9da02" />
+
+### Add Task  
+<img width="300" alt="Add Task" src="https://github.com/user-attachments/assets/304e72af-58c1-45f2-a3cb-bcf9b021e61a" />
+
+
+
+
+
+
+
+
+
 
 ---
 
