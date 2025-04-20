@@ -121,7 +121,13 @@ await Supabase.initialize(
 <img width="300" alt="Add Task" src="https://github.com/user-attachments/assets/304e72af-58c1-45f2-a3cb-bcf9b021e61a" />
 
 
+### Supabase Dashboard
 
+**Users Table**  
+<img width="1470" alt="Screenshot 2025-04-20 at 5 00 31 PM" src="https://github.com/user-attachments/assets/08d8fcdc-bb5c-4055-be90-c61e854a0e34" />
+
+**RLS Policies for `tasks` Table**  
+<img width="1467" alt="Screenshot 2025-04-20 at 4 59 50 PM" src="https://github.com/user-attachments/assets/4e692b31-7231-4001-bd20-f0089dfcbd0e" />
 
 
 
